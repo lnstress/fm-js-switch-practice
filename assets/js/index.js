@@ -11,7 +11,7 @@ switch(day){
   case 8:
   case 9:
   case 10:{
-      console.log(day + "день -" + " 1-ая декада месяца");
+      console.log("1-ая декада месяца");
       break;
   }
   case 11:
@@ -24,7 +24,7 @@ switch(day){
   case 18:
   case 19:
   case 20:{
-      console.log(day + "день -" + " 2-ая декада месяца");
+      console.log("2-ая декада месяца");
       break;
   }
   case 21:
@@ -38,7 +38,7 @@ switch(day){
   case 29:
   case 30:
   case 31:{
-      console.log(day + "день -" + " 1-ая декада месяца");
+      console.log("3-ая декада месяца");
       break;
   }
   default:
